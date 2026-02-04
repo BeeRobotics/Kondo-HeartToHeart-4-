@@ -20,9 +20,9 @@
 
 ##### 找到 HeartToHeart4  → HTH4.XML
 
-##### 右鍵點開 使用記事本打開  → 最底下  <Language>ja-JP</Language>或<Language>en-US</Language>把它改成
+##### 右鍵點開 使用記事本打開  → 最底下  ```<Language>ja-JP</Language>```或```<Language>en-US</Language>```把它改成
 
-##### <Language>zh-TW</Language>
+##### ```<Language>zh-TW</Language>```
 
 ##### ---
 
