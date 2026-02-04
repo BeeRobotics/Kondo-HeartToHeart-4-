@@ -12,6 +12,8 @@
 
 ##### 點擊左上角main選擇最新版本
 
+##### 右上角 code 選擇下載zip
+
 ##### 下載Kondo中文翻譯包.zip  → 解壓縮
 
 ##### 檔案總管 → C:\\Program Files (x86)\\HeartToHeart4(V2.4.0)
