@@ -3,6 +3,8 @@
 
 如果可以請追蹤 https://www.facebook.com/?locale=zh_TW 
 
+如果有問題請填寫此表單 https://forms.gle/eeN3ou9Kw6MhFZEB8
+
 參考以下說明進行安裝
 # 歡迎使用BeeRobotics KONDO 中文翻譯包
 
